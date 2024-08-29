@@ -1,0 +1,16 @@
+-2|dol|./recs/items/blocks/dropped_ol.png|0|0|0|0|0|0|0|0|
+-1|sun|./recs/items/blocks/sun.png|0|0|0|0|0|0|0|0|
+1|dirt|./recs/items/blocks/dirt.png|2|1|20|20|0|0|0|0|
+2|grass|./recs/items/blocks/grass.png|2|1|20|20|0|0|0|0|
+3|rock|./recs/items/blocks/rock.png|3|1|20|20|0|0|0|0|
+4|bedrock|./recs/items/blocks/bedrock.png|0|1|20|20|0|0|0|0|
+5|black block|./recs/items/blocks/black_block.png|3|1|20|20|0|0|0|0|
+6|white block|./recs/items/blocks/white_block.png|3|1|20|20|0|0|0|0|
+7|closet|./recs/items/blocks/closet.png|2|1|20|20|0|0|0|0|
+8|tv|./recs/items/blocks/tv_block.png|2|1|20|20|0|0|0|0|
+9|ordanary block|./recs/items/blocks/wtf.png|2|1|20|20|0|0|0|0|
+10|female ponytail hair|./recs/items/cloth/female_ponytail_h.png|2|2|18|15|5|0|8|1|
+11|black suite|./recs/items/cloth/black_suite.png|2|2|13|15|0|0|-5|4|
+12|black pants|./recs/items/cloth/black_pants.png|2|2|9|19|-2|-2|-19|7|
+13|pink dress|./recs/items/cloth/pink_dress.png|2|2|21|19|4|4|-5|4|
+#ID| name | path | rarity | type | width | height | x1 | x2 | y1 | body location
